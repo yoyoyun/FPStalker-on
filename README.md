@@ -71,11 +71,11 @@ python main.py lambda
 For the hybrid algorithm:
 
 ```ruby
-python automlbench myfilesprefix 4
+python main.py automlbench myprefix 4
 ```
 Where 4 has to be replaced by the number of cores on your machine.
 
 For the rule-based algorithm:
 ```ruby
-python autorulesbench myfilesprefix 4
+python main.py autorulesbench myfilesprefix 4
 ```
