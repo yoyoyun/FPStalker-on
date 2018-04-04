@@ -28,9 +28,9 @@ tar zxvf extension1.txt.tar.gz; tar zxvf extension2.txt.tar.gz; cat extension1.t
 
 Change the connection to the database at the top of the main with your credentials.
 
-1.create a new database
-2.excute sql code in extensionDataScheme.sql to create the structure of table
-3.source tableFingerprints.sql to import table data
+## 1.create a new database
+## 2.excute sql code in extensionDataScheme.sql to create the structure of table
+## 3.source tableFingerprints.sql to import table data
 
 # Get ids of browser instances with countermeasures
 ```ruby
